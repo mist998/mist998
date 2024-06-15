@@ -8,7 +8,7 @@ Free MQL4 tools giveaway:
    - paired with *VolatilityBook to provide SL movement for a timeframe then, max burst times for min lot step, 5-9-11-13-23 burst lot size calculation (balance)
 
   
- II. written low level MQL4 utils, all unmutable unless specified:
+ II. [class] written low level MQL4 utils, all unmutable unless specified:
    - MathUtil (floor_mod for circular array indexing)
    - PrimitiveArrayList
    - PrimitiveStream
