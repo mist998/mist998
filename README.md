@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Free MQL4 tools giveaway:
+  iWhisper [indicator] - on tick calculation, show as comment: allocated real risk(margin || risk size)(including pending orders), idle balance, idle lot(100% margin level), 
+                          min/max pip value in account currency
+                          paired with *VolatilityBook to provide SL movement for a TF then, max burst times for min lot step, 5-9-11-13-23 burst lot size calculation (balance)
+
+  
+
 <!--
 **mist998/mist998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
