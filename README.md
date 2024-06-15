@@ -16,7 +16,8 @@ Free MQL4 tools giveaway:
    - TStream (timeseries alike, constant O(1) read/write with fixed size)
    - TChannel (deque alike, but not really)
 
-Contact author if interested in tools/topic. For tools, will give and briefly discuss usage n limitations. For non-commercial uses only.
+Contact author if interested in tools/topic. For tools, will give and briefly discuss usage n limitations, non-commercial uses only. For topic, any attempt to build a mutual benefit is welcomed. Response is not guaranteed.
+
 
 Link: [ hot-interface@hotmail.com ]
 <!--
