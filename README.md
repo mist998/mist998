@@ -13,7 +13,7 @@ Free MQL4 tools giveaway:
    - PrimitiveArrayList
    - PrimitiveStream
    - TArrayList (returned reference via get, mutable)
-   - TStream (timeseries alike, O(1) read/write, fixed size)
+   - TStream (timeseries alike, constant O(1) read/write with fixed size)
    - TChannel (deque alike, but not really)
 
 Contact author if interested, will give and briefly explain usage n limitations. For non-commercial uses only.
