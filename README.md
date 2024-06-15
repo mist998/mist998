@@ -6,7 +6,7 @@ Free MQL4 tools giveaway:
    - on tick calculation, show as comment
    - allocated real face risk(risk size, not margin)(including pending orders), idle balance, idle lot(100% margin level), min/max pip value of symbol in account currency
    - paired with *VolatilityBook to provide SL movement for a timeframe then, max burst times for min lot step, 5-9-11-13-23 burst lot size calculation (balance)
-   - when an order doesn't have SL, fallback to VolatilityBook default SL to assume real face risk.
+   - when an order doesn't have SL, fallback to VolatilityBook default SL to assume real face risk, when no default SL provided, it will not works correctly
 
  II. [class] written low level MQL4 utils, all unmutable unless specified:
    - MathUtil (floor_mod for circular array indexing)
